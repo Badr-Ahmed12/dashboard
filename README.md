@@ -18,7 +18,7 @@ Ideal for tracking metrics, visualizing data, and managing analytics with ease.
 
 ## 📸 Preview
 
-<img src="https://your-image-link.com/demo.png" alt="Dashboard Preview" width="100%"/>
+<img src="Screenshot 2025-05-05 174041.png" alt="Dashboard Preview" width="100%"/>
 
 ---
 
